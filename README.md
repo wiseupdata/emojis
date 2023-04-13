@@ -117,6 +117,40 @@ Based on GitHub 😍
 
 <br>
 
+## Emojis for Sports and Activities 🎵
+
+| Emoji | Category | Description | Raw Text |
+| --- | --- | --- | --- |
+| :soccer: | Sports and Activities | A soccer ball, used to represent soccer or football. | `:soccer:` |
+| :basketball: | Sports and Activities | A basketball, used to represent basketball. | `:basketball:` |
+| :musical_note: | Sports and Activities | A musical note, used to represent music or singing. | `:musical_note:` |
+| :art: | Sports and Activities | A palette with paint, used to represent art or painting. | `:art:` |
+
+<br>
+
+## Emojis for Nature and Animals 🐍
+
+| Emoji | Category | Description | Raw Text |
+| --- | --- | --- | --- |
+| :sunflower: | Nature and Animals | A sunflower, used to represent nature or gardening. | `:sunflower:` |
+| :frog: | Nature and Animals | A frog, used to represent animals or wildlife. | `:frog:` |
+| :snake: | Nature and Animals | A snake, used to represent reptiles or danger. | `:snake:` |
+| :whale: | Nature and Animals | A whale, used to represent marine life or the ocean. | `:whale:` |
+
+<br>
+
+## Emojis for Symbols 🔍
+
+| Emoji | Category | Description | Raw Text |
+| --- | --- | --- | --- |
+| :heavy_check_mark: | Symbols | A checkmark, used to represent completion or success. | `:heavy_check_mark:` |
+| :x: | Symbols | A cross or X, used to represent failure or rejection. | `:x:` |
+| :warning: | Symbols | A warning sign, used to represent caution or warning. | `:warning:` |
+| :mag: | Symbols | A magnifying glass, used to represent search or discovery. | `:mag:` |
+
+
+<a name="readme-top"></a>
+<p align="right"><a href="#readme-top">back to top :up:</a></p>
 
 
 <a name="readme-top"></a>
