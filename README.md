@@ -181,15 +181,38 @@ Based on GitHub 😍
 | :key: | Objects | A key, used to represent access or security. | `:key:` |
 | :books: | Objects | A stack of books, used to represent education or learning. | `:books:` |
 
-
-
-
-<br>
-<br>
-<br>
 <br>
 
+## Emojis for Food and Drink 🍕
 
+| Emoji | Category | Description | Raw Text |
+| --- | --- | --- | --- |
+| :pizza: | Food and Drink | A slice of pizza, used to represent pizza or Italian food. | `:pizza:` |
+| :taco: | Food and Drink | A taco, used to represent Mexican food. | `:taco:` |
+| :coffee: | Food and Drink | A cup of coffee, used to represent coffee or caffeine. | `:coffee:` |
+| :beer: | Food and Drink | A beer mug, used to represent beer or alcohol. | `:beer:` |
+
+<br>
+
+## Emojis for Transportation ✈️
+
+| Emoji | Category | Description | Raw Text |
+| --- | --- | --- | --- |
+| :car: | Transportation | A car, used to represent automobiles or transportation. | `:car:` |
+| :bike: | Transportation | A bicycle, used to represent cycling or exercise. | `:bike:` |
+| :airplane: | Transportation | An airplane, used to represent air travel or aviation. | `:airplane:` |
+| :ship: | Transportation | A ship, used to represent water travel or shipping. | `:ship:` |
+
+<br>
+
+## Emojis for Places and Buildings 🏫
+
+| Emoji | Category | Description | Raw Text |
+| --- | --- | --- | --- |
+| :earth_americas: | Places and Buildings | A globe with the Americas visible, used to represent the world or global issues. | `:earth_americas:` |
+| :house: | Places and Buildings | A house, used to represent homes or housing. | `:house:` |
+| :hospital: | Places and Buildings | A hospital, used to represent healthcare or medical facilities. | `:hospital:` |
+| :school: | Places and Buildings | A school, used to represent education or learning. | `:school:` |
 
 
 
