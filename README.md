@@ -21,8 +21,9 @@
 </a>
 
 <h1>
-Emojis 
+Emojis
 </h1>
+Based on GitHub
 
 <br>
 <br>
