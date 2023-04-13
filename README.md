@@ -148,16 +148,40 @@ Based on GitHub 😍
 | :warning: | Symbols | A warning sign, used to represent caution or warning. | `:warning:` |
 | :mag: | Symbols | A magnifying glass, used to represent search or discovery. | `:mag:` |
 
+<br>
 
-<a name="readme-top"></a>
-<p align="right"><a href="#readme-top">back to top :up:</a></p>
+## Emojis for Technology 💻
+
+| Emoji | Category | Description | Raw Text |
+| --- | --- | --- | --- |
+| :computer: | Technology | A desktop computer, used to represent technology or computing. | `:computer:` |
+| :iphone: | Technology | An iPhone, used to represent smartphones or mobile technology. | `:iphone:` |
+| :battery: | Technology | A battery, used to represent power or battery life. | `:battery:` |
+| :bulb: | Technology | A lightbulb, used to represent ideas or creativity. | `:bulb:` |
+
+<br>
+
+## Emojis for People and Body Parts 🧠
+
+| Emoji | Category | Description | Raw Text |
+| --- | --- | --- | --- |
+| :raising_hand: | People and Body Parts | A person raising one hand, used to represent participation or agreement. | `:raising_hand:` |
+| :ear: | People and Body Parts | An ear, used to represent listening or hearing. | `:ear:` |
+| :footprints: | People and Body Parts | Footprints, used to represent walking or footsteps. | `:footprints:` |
+| :brain: | People and Body Parts | A brain, used to represent intelligence or thinking. | `:brain:` |
+
+<br>
+
+## Emojis for Objects 🎁
+
+| Emoji | Category | Description | Raw Text |
+| --- | --- | --- | --- |
+| :gift: | Objects | A wrapped gift, used to represent presents or gifts. | `:gift:` |
+| :camera: | Objects | A camera, used to represent photography or pictures. | `:camera:` |
+| :key: | Objects | A key, used to represent access or security. | `:key:` |
+| :books: | Objects | A stack of books, used to represent education or learning. | `:books:` |
 
 
-<a name="readme-top"></a>
-<p align="right"><a href="#readme-top">back to top :up:</a></p>
-
-<p align="right"><a href="#readme-top">back to top :up:</a>
-</p>
 
 
 <br>
