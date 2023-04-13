@@ -49,7 +49,6 @@ Based on GitHub
 | :mailbox_with_mail: | Communication | A mailbox with mail inside, used to represent receiving mail or messages. | `:mailbox_with_mail:` |
 | :phone: | Communication | A classic phone handset, used to represent communication via phone calls. | `:phone:` |
 
-
 <br>
 
 ## Emojis for Status
@@ -72,6 +71,7 @@ Based on GitHub
 | :pushpin: | Action | A pushpin, used to represent pinning or marking something important. | `:pushpin:` |
 | :sparkles: | Action | Sparkles, used to represent something magical or special. | `:sparkles:` |
 
+<br>
 
 ## Emojis for Objects
 
@@ -82,6 +82,45 @@ Based on GitHub
 | :shopping_cart: | Objects | A shopping cart, used to represent shopping or commerce. | `:shopping_cart:` |
 | :books: | Objects | A stack of books, used to represent education or learning. | `:books:` |
 
+<br>
+
+## Emojis for Emotions
+
+| Emoji | Category | Description | Raw Text |
+| --- | --- | --- | --- |
+| :smile: | Emotions | A smiling face, used to represent happiness or positivity. | `:smile:` |
+| :sob: | Emotions | A crying face, used to represent sadness or emotion. | `:sob:` |
+| :heart_eyes: | Emotions | A face with heart-shaped eyes, used to represent love or infatuation. | `:heart_eyes:` |
+| :anger: | Emotions | A red face with a furrowed brow, used to represent anger or frustration. | `:anger:` |
+
+<br>
+
+## Emojis for Food and Drink
+
+| Emoji | Category | Description | Raw Text |
+| --- | --- | --- | --- |
+| :pizza: | Food and Drink | A slice of pizza, used to represent pizza or Italian cuisine. | `:pizza:` |
+| :taco: | Food and Drink | A taco, used to represent Mexican cuisine. | `:taco:` |
+| :coffee: | Food and Drink | A cup of coffee, used to represent coffee or caffeine. | `:coffee:` |
+| :beer: | Food and Drink | A mug of beer, used to represent beer or alcohol. | `:beer:` |
+
+<br>
+
+## Emojis for Travel and Places
+
+| Emoji | Category | Description | Raw Text |
+| --- | --- | --- | --- |
+| :airplane: | Travel and Places | An airplane, used to represent travel or transportation. | `:airplane:` |
+| :mount_fuji: | Travel and Places | Mount Fuji, used to represent Japan or travel to Japan. | `:mount_fuji:` |
+| :beach_umbrella: | Travel and Places | A beach umbrella, used to represent a tropical vacation or beach trip. | `:beach_umbrella:` |
+| :camping: | Travel and Places | A camping tent, used to represent camping or the outdoors. | `:camping:` |
+
+<br>
+
+
+
+<a name="readme-top"></a>
+<p align="right"><a href="#readme-top">back to top :up:</a></p>
 
 <p align="right"><a href="#readme-top">back to top :up:</a>
 </p>
