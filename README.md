@@ -23,7 +23,7 @@
 <h1>
 Emojis
 </h1>
-Based on GitHub
+Based on GitHub 😍
 
 <br>
 <br>
@@ -40,7 +40,7 @@ Based on GitHub
 
 <a name="readme-top"></a>
 
-## Emojis for Communication
+## Emojis for Communication 📩
 
 | Emoji | Category | Description | Raw Text |
 | --- | --- | --- | --- |
@@ -51,7 +51,7 @@ Based on GitHub
 
 <br>
 
-## Emojis for Status
+## Emojis for Status 🟢
 
 | Emoji | Category | Description | Raw Text |
 | --- | --- | --- | --- |
@@ -62,7 +62,7 @@ Based on GitHub
 
 <br>
 
-## Emojis for Actions
+## Emojis for Actions ✨
 
 | Emoji | Category | Description | Raw Text |
 | --- | --- | --- | --- |
@@ -73,7 +73,7 @@ Based on GitHub
 
 <br>
 
-## Emojis for Objects
+## Emojis for Objects 🛒
 
 | Emoji | Category | Description | Raw Text |
 | --- | --- | --- | --- |
@@ -84,7 +84,7 @@ Based on GitHub
 
 <br>
 
-## Emojis for Emotions
+## Emojis for Emotions 😍
 
 | Emoji | Category | Description | Raw Text |
 | --- | --- | --- | --- |
@@ -95,7 +95,7 @@ Based on GitHub
 
 <br>
 
-## Emojis for Food and Drink
+## Emojis for Food and Drink 🍺
 
 | Emoji | Category | Description | Raw Text |
 | --- | --- | --- | --- |
@@ -106,7 +106,7 @@ Based on GitHub
 
 <br>
 
-## Emojis for Travel and Places
+## Emojis for Travel and Places 🏖️
 
 | Emoji | Category | Description | Raw Text |
 | --- | --- | --- | --- |
